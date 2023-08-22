@@ -1,21 +1,36 @@
-<!--Notepad++ config file location: C:\Users\<username>\AppData\Roaming\Notepad++\-->
 <?xml version="1.0" encoding="UTF-8" ?>
 <NotepadPlus>
     <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="no" fifProjectPanel1="no" fifProjectPanel2="no" fifProjectPanel3="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="no" searchMode="0" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="yes" regexBackward4PowerUser="no" bookmarkLine="yes" purge="no">
         <Filter name="" />
+        <Find name="explor" />
+        <Find name="visio" />
         <Find name="test" />
+        <Find name="for" />
+        <Find name="dns" />
+        <Find name="dae" />
+        <Find name="teler" />
         <Replace name="" />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
+        <File filename="C:\Users\kordi\AppData\Roaming\Notepad++\plugins\config\MarkdownViewerPlusPlus.ini" />
+        <File filename="C:\Users\kordi\AppData\Roaming\Notepad++\plugins\config\MusicPlayer.ini" />
+        <File filename="C:\Users\kordi\AppData\Roaming\Notepad++\plugins\config\nppcrypt.xml" />
+        <File filename="C:\Users\kordi\AppData\Roaming\Notepad++\plugins\config\NppOpenAI.ini" />
+        <File filename="C:\Users\kordi\AppData\Roaming\Notepad++\plugins\config\Run Me.ini" />
         <File filename="C:\Windows\win.ini" />
+        <File filename="C:\Users\kordi\Desktop\Informatyka\Configs\Notepad++\config.xml" />
+        <File filename="C:\Users\kordi\AppData\Roaming\Notepad++\config.xml" />
+        <File filename="C:\Users\kordi\Desktop\systemctl - escalation.txt" />
+        <File filename="C:\Users\kordi\Desktop\Private\backlog.txt" />
     </History>
     <ProjectPanels>
         <ProjectPanel id="0" workSpaceFile="" />
         <ProjectPanel id="1" workSpaceFile="" />
         <ProjectPanel id="2" workSpaceFile="" />
     </ProjectPanels>
-    <FileBrowser latestSelectedItem="C:\Users\">
-        <root foldername="C:\" />
+    <FileBrowser latestSelectedItem="C:\Users\kordi\Desktop\Private\backlog.txt">
+        <root foldername="C:\Users\kordi\Desktop\Private" />
+        <root foldername="C:\Users\kordi\Desktop\Informatyka" />
     </FileBrowser>
     <ColumnEditor choice="number">
         <text content="" />
